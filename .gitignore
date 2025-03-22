@@ -1,0 +1,10 @@
+# gitignore file
+
+# venv
+venv/
+
+# __pycache__ files
+__pycache__/
+
+# migrations
+migrations/
